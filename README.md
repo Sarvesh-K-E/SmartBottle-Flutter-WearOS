@@ -57,6 +57,4 @@ The software relies on a standard IoT sense-process-transmit architecture:
 2. Install the `OneWire`, `DallasTemperature`, and `SoftwareSerial` libraries.
 3. Connect the sensors (HC-SR04, DS18B20, TDS, HC-05) to the Arduino according to the pin mappings in the code, and flash the firmware.
 
-## License
 
-This project is licensed under the MIT License.
