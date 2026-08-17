@@ -2,6 +2,15 @@
 
 A comprehensive hydration tracking ecosystem featuring a Flutter-based mobile application, a companion Wear OS smartwatch application, and an Arduino-powered smart bottle. This project emphasizes real-time data processing, robust state management, and an intuitive cross-platform software experience to monitor and encourage healthy daily water intake.
 
+## 📱 Mobile App Screenshots
+
+![Mobile Application Screenshots](screenshots/img2.png)
+
+## ⌚ Wear OS — Real Device
+
+The companion Wear OS application was tested on a Galaxy Watch 4, bringing real-time hydration monitoring directly to the user's wrist.
+
+![Wear OS Smartwatch](screenshots/img1.png)
 
 ## 📱 Mobile Application (Flutter)
 
