@@ -2,6 +2,17 @@
 
 A comprehensive hydration tracking ecosystem featuring a Flutter-based mobile application, a companion Wear OS smartwatch application, and an Arduino-powered smart bottle. This project emphasizes real-time data processing, robust state management, and an intuitive cross-platform software experience to monitor and encourage healthy daily water intake.
 
+## 📱 Mobile App Screenshots
+
+### Dashboard
+![Smart Bottle Dashboard](screenshots/image3.jpeg)
+
+### History & Reports
+![History and Reports](screenshots/image2.jpeg)
+
+### Settings & Help
+![Settings and Help](screenshots/image1.jpeg)
+
 ## 📱 Mobile Application (Flutter)
 
 The core of the software ecosystem is a cross-platform companion app built with Flutter, designed to process raw sensor telemetry and present actionable hydration insights.
@@ -56,5 +67,15 @@ The software relies on a standard IoT sense-process-transmit architecture:
 1. Open `firmware/SmartBottle/SmartBottle.ino` using the Arduino IDE.
 2. Install the `OneWire`, `DallasTemperature`, and `SoftwareSerial` libraries.
 3. Connect the sensors (HC-SR04, DS18B20, TDS, HC-05) to the Arduino according to the pin mappings in the code, and flash the firmware.
+
+## ⌚ Wear OS — Real Device
+
+The companion Wear OS application was tested on a Galaxy Watch 4, providing real-time hydration data directly on the user's wrist.
+
+### Smartwatch Dashboard
+![Smartwatch Dashboard](screenshots/image4.jpeg)
+
+### Smartwatch Hydration Monitor
+![Smartwatch Hydration Monitor](screenshots/image5.jpeg)
 
 
