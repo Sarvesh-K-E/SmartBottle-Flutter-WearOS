@@ -4,13 +4,13 @@ A comprehensive hydration tracking ecosystem featuring a Flutter-based mobile ap
 
 ## 📱 Mobile App Screenshots
 
-![Mobile Application Screenshots](screenshots/img2.png)
+![Mobile Application Screenshots](screenshots/img1.png)
 
 ## ⌚ Wear OS — Real Device
 
 The companion Wear OS application was tested on a Galaxy Watch 4, bringing real-time hydration monitoring directly to the user's wrist.
 
-![Wear OS Smartwatch](screenshots/img1.png)
+![Wear OS Smartwatch](screenshots/img2.png)
 
 ## 📱 Mobile Application (Flutter)
 
